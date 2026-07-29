@@ -1,4 +1,5 @@
-[background-color: #550fb1;
+[header {
+   background-color: #0fb145;
    color: #FFFFFF;
    text-align: center;
    max-width: 800px;
@@ -8,8 +9,8 @@
 
 
 main {
-   background-color: #FFFFFF;
-   color: #0c099c;
+   background-color: #ffffff57;
+   color: #9c1f09;
    max-width: 800px;
    margin: 0 auto;
    padding: 16px;
